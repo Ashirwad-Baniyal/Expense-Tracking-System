@@ -36,5 +36,5 @@ A comprehensive Expense Tracking System built with a MongoDB database and a REST
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/expense-tracking-system.git
-cd expense-tracking-system
+git clone https://github.com/your-repo/Expense-Tracking-System.git
+cd Expense-Tracking-System
